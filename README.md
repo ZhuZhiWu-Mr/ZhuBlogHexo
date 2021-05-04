@@ -1,2 +1,0 @@
-# ZhuBlogHexo
-my blog (hexo)
