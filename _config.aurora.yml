@@ -18,12 +18,12 @@ site:
   multi_language: false
   logo: /images/head.jpg
   avatar: /images/head.jpg
-#  beian:
-#    number: '111'
-#    link: '222'
-#  police_beian:
-#    number: '222'
-#    link: '222'
+  beian:
+    number: '无'
+    link:
+  police_beian:
+    number: '无'
+    link:
 
 #! ---------------------------------------------------------------
 #! Authors Configs
@@ -54,8 +54,8 @@ menu:
 #! ---------------------------------------------------------------
 theme:
   dark_mode: true
-  profile_shape: circle # support `circle`, `diamond`, `rounded`
-  feature: false  # false置顶布局模式
+  profile_shape: diamond # support `circle`, `diamond`, `rounded`
+  feature: true  # false置顶布局模式
 #  gradient:
 #    color_1: '#24c6dc'
 #    color_2: '#5433ff'
@@ -90,6 +90,9 @@ socials:
 site_meta:
   cdn: cn
   favicon:
+  description: '所行皆坦途，万事皆胜意，二者均无'
+  keywords: 'Blog'
+  author: 阿朱
 
 #! ---------------------------------------------------------------
 #! Plugins
@@ -329,6 +332,8 @@ aurora_bot:
     events:
       - date: 01/01
         text: '<span>元旦</span>了呢，新的一年又开始了，今年是{year}年～'
+      - date: 02/01
+        text: '<span>梦瑶的生日</span>每天要快乐哟'
       - date: 02/14
         text: 又是一年<span>情人节</span>，{year}年找到对象了嘛～
       - date: 03/08
