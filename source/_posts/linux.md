@@ -1,12 +1,11 @@
 ---
 title: linux操作宝典 
-date: 2021-04-03 14:33:15
-tags: Linux
-categories: linux
+date: 2021-04-29 14:33:15
+tags: 
+	- Linux
+categories: Linux
 cover: /images/banners/VCG211284641681.jpg
 ---
-
-
 
 ## 按内容搜索所有文件
 

@@ -1,13 +1,14 @@
 ---
-title: shell脚本
-date: 2021-05-04 19:55:39
-tags: linux
+title: shell脚本 
+date: 2021-04-25 11:42:36
+tags: 
+	- Shell
+	- Linux
 categories: 
-  - Linux
-  - Sehll
+	- Shell
+	
 cover: /images/banners/VCG41N1169192820.jpg
 ---
-
 
 
 ###  清屏
